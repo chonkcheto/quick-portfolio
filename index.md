@@ -9,7 +9,8 @@ I'm a data scientist interested in making the world a healthier, happier place. 
 [Paws and Tales](https://pawsandtales.streamlit.app/) 
 
 Capstone project for The Data Incubator. Deployed a machine learning model in an interactive app to predict whether a dog will be adopted within one month of posting on Petfinder. Built model using random forest classifier trained on quantitative and qualitative data of 20,000+ dogs. 
-<img src="images/pic1_pawsandtales.png"/>
+
+<img src="images/pic1_pawsandtales.png" alt="pawsandtales_dog_breeds" width="100"/>
 
 ---
 [RNA sequencing of mini intestines under diabetic-like conditions](https://www.jbc.org/article/S0021-9258(17)49493-2/fulltext) 
