@@ -1,4 +1,6 @@
-Hi! I'm a data scientist interested in making the world a healthier, happier place. I conducted my doctoral work in the [Haeusler Lab](http://www.rhaeuslerlab.com/) at Columbia University's Naomi Berrie Diabetes Center and completed a data science bootcamp with [The Data Incubator](https://www.thedataincubator.com/). 
+## Hello! 
+
+I'm a data scientist interested in making the world a healthier, happier place. I conducted my doctoral work in the [Haeusler Lab](http://www.rhaeuslerlab.com/) at Columbia University's Naomi Berrie Diabetes Center and completed a data science bootcamp with [The Data Incubator](https://www.thedataincubator.com/). 
 
 ---
 
@@ -25,7 +27,6 @@ Ahmad TR, Haeusler RA. Bile acids in glucose metabolism and insulin signalling â
 
 More on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4reAnikAAAAJ&view_op=list_works&sortby=pubdate)
 
----
 
 
 
