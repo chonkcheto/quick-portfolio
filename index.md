@@ -10,7 +10,7 @@ I'm a data scientist interested in making the world a healthier, happier place. 
 
 Capstone project for The Data Incubator. Deployed a machine learning model in an interactive app to predict whether a dog will be adopted within one month of posting on Petfinder. Built model using random forest classifier trained on quantitative and qualitative data of 20,000+ dogs. 
 
-<img src="images/pic1_pawsandtales.png" alt="pawsandtales_dog_breeds" width="100"/>
+<img src="images/pic1_pawsandtales.png" alt="pawsandtales_dog_breeds" width="200"/>
 
 ---
 [RNA sequencing of mini intestines under diabetic-like conditions](https://www.jbc.org/article/S0021-9258(17)49493-2/fulltext) 
@@ -22,15 +22,13 @@ Core component of doctoral research. Conducted RNA sequencing to identify differ
 
 ### Publications 
 
-Ahmad TR, Higuchi S, Bertaggia E, Hung A, Shanmugarajah N, Guilz NC, Gamarra JR, Haeusler RA. Bile acid composition regulates the manganese transporter Slc30a10 in intestine. Journal of Biological Chemistry 295: 12545-12558 (2020) [Link](https://www.jbc.org/article/S0021-9258(17)49493-2/fulltext)
+**Ahmad TR**, Higuchi S, Bertaggia E, Hung A, Shanmugarajah N, Guilz NC, Gamarra JR, Haeusler RA. Bile acid composition regulates the manganese transporter Slc30a10 in intestine. _Journal of Biological Chemistry_ 295: 12545-12558 (2020) [Link](https://www.jbc.org/article/S0021-9258(17)49493-2/fulltext)
 - TL,DR: I grew 3D mini intestines in dishes, exposed them to different environments, and carried out bulk RNA sequencing to determine which genes are turned on or off under diabetic-like conditions. 
 - Awarded Journal of Biological Chemistry Editors' Pick (top 2% of articles published yearly)
 
-Ahmad TR, Haeusler RA. Bile acids in glucose metabolism and insulin signalling — mechanisms and research needs. Nature Reviews Endocrinology 15: 701-712 (2019). [Link](https://www.nature.com/articles/s41574-019-0266-7)
+**Ahmad TR**, Haeusler RA. Bile acids in glucose metabolism and insulin signalling — mechanisms and research needs. _Nature Reviews Endocrinology_ 15: 701-712 (2019). [Link](https://www.nature.com/articles/s41574-019-0266-7)
 
 More on [Google Scholar](https://scholar.google.com/citations?hl=en&user=4reAnikAAAAJ&view_op=list_works&sortby=pubdate)
-
-
 
 
 
