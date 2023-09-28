@@ -1,17 +1,17 @@
-## Hello! 
-
-I'm a data scientist interested in making the world a healthier, happier place. I conducted my doctoral work in the [Haeusler Lab](http://www.rhaeuslerlab.com/) at Columbia University's Naomi Berrie Diabetes Center and completed a data science bootcamp with [The Data Incubator](https://www.thedataincubator.com/). 
+Hello! I'm a data scientist interested in making the world a healthier, happier place. I conducted my doctoral work in the [Haeusler Lab](http://www.rhaeuslerlab.com/) at Columbia University's Naomi Berrie Diabetes Center and completed a data science bootcamp with [The Data Incubator](https://www.thedataincubator.com/). 
 
 ---
 
 ### Projects 
 
-[Paws and Tales](https://pawsandtales.streamlit.app/)
-Capstone project for The Data Incubator. Deployed a machine learning model in an interactive app to predict whether a dog will be adopted within one month of posting on Petfinder. Model was built using random forest classifier trained on data of 20,000+ dogs. 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Paws and Tales](https://pawsandtales.streamlit.app/) 
+
+Capstone project for The Data Incubator. Deployed a machine learning model in an interactive app to predict whether a dog will be adopted within one month of posting on Petfinder. Built model using random forest classifier trained on quantitative and qualitative data of 20,000+ dogs. 
+<img src="images/pic1_pawsandtales.png/">
 
 ---
-[RNA sequencing of mini intestines under diabetic-like conditions](https://www.jbc.org/article/S0021-9258(17)49493-2/fulltext)
+[RNA sequencing of mini intestines under diabetic-like conditions](https://www.jbc.org/article/S0021-9258(17)49493-2/fulltext) 
+
 Core component of doctoral research. Conducted RNA sequencing to identify differentially expressed genes in mini intestines exposed to different environments. Results were validated with independent batches of mini intestines, qPCR, and functional assays. To be added: heatmap of differentially expressed genes. 
 <img src="images/dummy_thumbnail.jpg?raw=true"/> 
 
