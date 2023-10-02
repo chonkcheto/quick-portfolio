@@ -10,14 +10,15 @@ I'm a data scientist interested in making the world a healthier, happier place. 
 
 Capstone project for The Data Incubator. Deployed a machine learning model in an interactive app to predict whether a dog will be adopted within one month of posting on Petfinder. Built model using random forest classifier trained on quantitative and qualitative data of 20,000+ dogs. 
 
-<img src="images/pic1_pawsandtales.png" alt="pawsandtales_dog_breeds" width="200"/>
+<img src="images/pic1_pawsandtales.png" alt="pawsandtales_dog_breeds" width="200"/> 
+<img src="images/pic2_pawsandtales.png" alt="pawsandtales_adoptionstatus_agegroups" width="200"/>
 
 ---
 [RNA sequencing of mini intestines under diabetic-like conditions (2017-2020)](https://www.jbc.org/article/S0021-9258(17)49493-2/fulltext) 
 
 Core component of doctoral research. Conducted RNA sequencing to identify differentially expressed genes in mini intestines exposed to different environments. Results were validated with independent batches of mini intestines, qPCR, and functional assays. Presented at Gordon Research Conference Cell Biology of Metals 2019, published in Journal of Biological Chemistry. 
 
-<img src="images/tra_grc_metals_2019.png" alt="poster_gordonreseearchconference_cell_biology_metals_2019" width="300"/> 
+<img src="images/tra_grc_metals_2019.png" alt="poster_gordonreseearchconference_cell_biology_metals_2019" width="400"/> 
 
 ---
 
