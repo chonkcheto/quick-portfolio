@@ -8,7 +8,11 @@ I'm a data scientist interested in making the world a healthier, happier place. 
 
 **Paws and Tales (2023)**
 
-Capstone project for The Data Incubator. Deployed a machine learning model in an interactive app to predict whether a dog within 100 miles of New York City will be adopted within one month of posting on Petfinder. Built model using random forest classifier trained on quantitative and qualitative data of 20,000+ dogs. [Streamlit app](https://pawsandtales.streamlit.app/) | [GitHub repo](https://github.com/chonkcheto/adoptabledogsofny)
+Capstone project for The Data Incubator. Deployed a machine learning model in an interactive app to predict whether a dog within 100 miles of New York City will be adopted within one month of posting on Petfinder. Built model using random forest classifier trained on quantitative and qualitative data of 20,000+ dogs. 
+
+[Streamlit app](https://pawsandtales.streamlit.app/) 
+
+[GitHub repo](https://github.com/chonkcheto/adoptabledogsofny)
 
 <img src="images/pic3_pawsandtales.png" alt="sample_figures_pawsandtales" width="400"/> 
 
