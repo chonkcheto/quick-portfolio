@@ -124,7 +124,7 @@ path="./blog/$category/_posts/"
 # Copy the right file
 FRONT_MATTER=$(cat <<EOF
 ---
-layout: post
+layout: default
 title: $title
 excerpt: ### >>> FILL ME IN <<< ###
 category: $category
