@@ -2,6 +2,10 @@
 
 Forked from https://github.com/evanca/quick-portfolio
 
+## Usage
+
+Use ./make-blog.sh to autogenerate a new properly formatted blog post markdown file.
+
 ## References
 
 [1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
