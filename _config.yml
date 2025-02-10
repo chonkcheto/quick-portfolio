@@ -1,13 +1,22 @@
 title: Tiara Ahmad, PhD # your name (or website title) here
-logo: "/images/tiaraahmad_headshot_2020b.JPG" # your photo (or logo) here
+logo: "/images/headshot.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist | Biomedical Researcher 
+  Data Scientist | Biomedical Researcher
   <br><br>
-  San Francisco, CA 
+  San Francisco, CA
   <br><br>
-  <a href="https://www.linkedin.com/in/tiaraahmad/">Connect with me on LinkedIn</a> 
-  
+  <a href="https://www.linkedin.com/in/tiaraahmad/">Connect with me on LinkedIn</a>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+collections:
+  bioinformatics:
+    output: true
+    permalink: /blog/bioinformatics/:title/
+  ml:
+    output: true
+    permalink: /blog/ml/:title/
+  ai:
+    output: true
+    permalink: /blog/ai/:title/
